@@ -32,7 +32,7 @@
 
 I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-vision models, and LLM-powered apps, wrapped in a FastAPI backend and a React frontend. I like taking an idea from **concept → prototype → working application**.
 
-🎯 **Looking for:** [AI/ML internship | Embedded + AI role | Full-stack + AI role], starting [Month Year]
+🎯 **Looking for:** AI/ML internship | Embedded + AI role | Full-stack + AI role — available to start **immediately**
 
 ---
 
@@ -42,26 +42,23 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Concept+to+Prototype+to+Product" alt="typing" />
 
-### 🏥 [Project Name]: Healthcare AI / Computer Vision
-**Problem:** [One line: who has this problem and why it matters]
-**What I built:** [e.g., CNN classifier for X → FastAPI inference service → React dashboard]
-**Result:** [e.g., 94% accuracy on Y dataset / deployed at Z / placed Nth at ABC Hackathon]
-**Stack:** `Python` `PyTorch` `OpenCV` `FastAPI` `React`
-🔗 [Repo](link) · [Live Demo](link)
+### 🍽️ Sundararajan Canteen System
+**Problem:** Manual, in-person canteen ordering is slow and hard to track for a college campus.
+**What I built:** A web-based canteen ordering system with a React + TypeScript frontend, built and deployed end-to-end.
+**Stack:** `React` `TypeScript` `Vite`
+🔗 [Repo](https://github.com/Vinzz006/sundararajan-canteen-systemj) · [Live Demo](https://sundararajan-canteen-systemj.vercel.app)
 
-### 🌱 [Project Name]: Smart Agriculture / IoT
-**Problem:** [One line]
-**What I built:** [e.g., ESP32 soil-moisture nodes → Firebase → ML model predicting irrigation need]
-**Result:** [Measurable outcome]
-**Stack:** `ESP32` `C++` `Firebase` `Python` `scikit-learn`
-🔗 [Repo](link) · [Demo video](link)
+### 🧠 MindEase — Mental Wellness App
+**Problem:** Students often lack an easy, private first step toward checking in on their own mental wellbeing.
+**What I built:** A wellness-focused web app using the Gemini API for AI-assisted interactions, with a React + TypeScript frontend.
+**Stack:** `React` `TypeScript` `Gemini API` `Vite`
+🔗 [Repo](https://github.com/Vinzz006/mindease) · [Live Demo](https://mindease-two-opal.vercel.app)
 
-### 🤖 [Project Name]: RAG / LLM Application
-**Problem:** [One line]
-**What I built:** [e.g., document Q&A assistant using embeddings + vector search + local LLM]
-**Result:** [Measurable outcome or what you learned]
-**Stack:** `Python` `LangChain` `Ollama` `FastAPI`
-🔗 [Repo](link) · [Demo](link)
+### ✅ Task Management App
+**Problem:** Needed a clean, fast way to track daily tasks without the bloat of larger project-management tools.
+**What I built:** A to-do list web app with a React + TypeScript frontend, deployed live.
+**Stack:** `React` `TypeScript` `Vite`
+🔗 [Repo](https://github.com/Vinzz006/to-do-list) · [Live Demo](https://to-do-list-eta-sage-80.vercel.app)
 
 ---
 
@@ -99,8 +96,7 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Currently+In+Progress..." alt="typing" />
 
-- **Building:** [Current project, one line]
-- **Learning:** [1 to 3 specific things, e.g., deploying FastAPI apps with Docker]
+- **Focus:** Diving deep into software + hardware solutions, with a growing focus on ML and computer vision
 
 ---
 
