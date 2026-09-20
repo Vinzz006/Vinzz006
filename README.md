@@ -248,7 +248,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img src="https://github-readme-stats-kappa-one-51.vercel.app/api?username=Vinzz006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<img src="https://streak-stats.demolab.com/?user=Vinzz006&theme=tokyonight&hide_border=true&count_private=true&cb=1" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Vinzz006&theme=tokyonight&hide_border=true&count_private=true&cb=2" height="170"/>
 
 </div>
 
@@ -338,3 +338,5 @@ I'm interested in collaborating on **AI, IoT, Computer Vision, Full-Stack, and i
 ### ⚡ Build. Learn. Experiment. Ship.
 
 </div>
+
+<!-- last-refreshed: 2026-09-21T00:00:00Z -->
