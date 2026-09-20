@@ -325,6 +325,14 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinzz006&bg_color=000000&color=00E5FF&line=39FF14&point=39FF14&area=true&hide_border=true&area_color=39FF14" width="100%"/>
+
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
