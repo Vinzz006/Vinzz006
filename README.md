@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:58A6FF,100:8957e5&section=header&text=Vinesh%20Shanmugam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
 <a href="https://github.com/Vinzz006">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+%7C+Full-Stack+%7C+IoT+%26+Embedded;I+build+AI+that+connects+to+real+hardware" alt="Typing SVG" />
 </a>
@@ -22,7 +24,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 👋 About Me
 
@@ -30,7 +32,7 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 🎯 **Looking for:** [AI/ML internship | Embedded + AI role | Full-stack + AI role], starting [Month Year]
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🚀 Featured Projects
 
@@ -55,7 +57,7 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 **Stack:** `Python` `LangChain` `Ollama` `FastAPI`
 🔗 [Repo](link) · [Demo](link)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🧰 Skills
 
@@ -79,14 +81,14 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 `MLOps` · `Cloud deployment (AWS / GCP)` · `System design` · `Kubernetes`
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🔭 Right Now
 
 - **Building:** [Current project, one line]
 - **Learning:** [1 to 3 specific things, e.g., deploying FastAPI apps with Docker]
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🏆 Hackathons & Achievements
 
@@ -94,7 +96,7 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 - [Certification, publication, or competition]
 - [Anything else with a name and a date]
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🤝 Open To
 
@@ -102,14 +104,15 @@ Internships and entry-level roles in **AI/ML**, **AI + IoT** and **full-stack** 
 
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/Vinesh-Shanmugam) · [Email](mailto:shanmugamvinesh75@gmail.com)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🛠️ How I Build
 
 ```text
 Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 / IoT integration → Real-world solution
 ```
----
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🤖 AI Engineering
 
@@ -122,7 +125,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 - FastAPI-based AI inference backends
 - AI + IoT integration
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 💻 Development Stack
 
@@ -150,7 +153,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 `FastAPI` `Flask` `Django` `Node.js` `Express.js` `REST APIs` `JWT Authentication`
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🗄️ Databases & Cloud
 
@@ -170,7 +173,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 `Firebase` `Vercel` `Render` `Google Cloud` `AWS`
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🔌 IoT & Embedded Systems
 
@@ -188,7 +191,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 - Hardware + AI integration
 - Smart sensor systems
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🧠 Machine Learning & Data
 
@@ -200,7 +203,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 **Focus areas:** Machine Learning · Deep Learning · Computer Vision · Predictive Analytics · Image Classification · Object Detection · Medical AI · Model Explainability
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## ⚙️ Tools & DevOps
 
@@ -210,7 +213,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 `Git` `GitHub` `GitHub Actions` `Docker` `Kubernetes` `Linux` `VS Code` `CI/CD`
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🎨 Design & Creative Tools
 
@@ -220,7 +223,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 `Figma` `Canva` `Blender` `Adobe Photoshop` `Adobe Premiere Pro`
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🚀 Featured Areas
 
@@ -240,7 +243,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 📊 GitHub Analytics
 
@@ -260,7 +263,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🐍 Contribution Snake
 
@@ -283,7 +286,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🏗️ How I Like to Build
 
@@ -303,7 +306,7 @@ Cloud / Database
 Real-World Solution
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:58A6FF,100:8957e5&section=header"/>
 
 ## 🤝 Let's Connect
 
@@ -327,8 +330,6 @@ I'm interested in collaborating on **AI, IoT, Computer Vision, Full-Stack, and i
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Vinzz006&label=Profile%20Views&style=for-the-badge" />
@@ -338,5 +339,7 @@ I'm interested in collaborating on **AI, IoT, Computer Vision, Full-Stack, and i
 ### ⚡ Build. Learn. Experiment. Ship.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:8957e5,100:58A6FF&section=footer&animation=fadeIn" width="100%"/>
 
 <!-- last-refreshed: 2026-09-21T00:00:00Z -->
