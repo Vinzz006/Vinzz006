@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Vinzz006">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+%7C+Full-Stack+%7C+IoT+%26+Embedded;I+build+AI+that+connects+to+real+hardware" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+%7C+Full-Stack+%7C+IoT+%26+Embedded;I+build+AI+that+connects+to+real+hardware" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -10,13 +10,13 @@
 
 <p>
   <a href="https://github.com/Vinzz006">
-    <img src="https://img.shields.io/badge/GitHub-Vinzz006-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Vinzz006-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000&color=0a0a0a" />
   </a>
   <a href="https://www.linkedin.com/in/Vinesh-Shanmugam">
-    <img src="https://img.shields.io/badge/LinkedIn-Vinesh%20Shanmugam-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vinesh%20Shanmugam-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=000000&color=0a0a0a" />
   </a>
   <a href="mailto:shanmugamvinesh75@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000&color=0a0a0a" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Turning+Ideas+Into+Reality" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Turning+Ideas+Into+Reality" alt="typing" />
 
 I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-vision models, and LLM-powered apps, wrapped in a FastAPI backend and a React frontend. I like taking an idea from **concept → prototype → working application**.
 
@@ -40,7 +40,7 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Concept+to+Prototype+to+Product" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Concept+to+Prototype+to+Product" alt="typing" />
 
 ### 🏥 [Project Name]: Healthcare AI / Computer Vision
 **Problem:** [One line: who has this problem and why it matters]
@@ -69,12 +69,12 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Always+Learning%2C+Always+Building" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Always+Learning%2C+Always+Building" alt="typing" />
 
 ### Core (I use these regularly and can discuss them in depth)
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,react,cpp,arduino,firebase,git" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,react,cpp,arduino,firebase,git&theme=dark" />
 </p>
 
 - **ML / AI:** Computer Vision, Deep Learning, RAG & LLM applications, embeddings & vector search
@@ -84,7 +84,7 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 ### Familiar (used in projects, still building depth)
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,flask,nodejs,postgresql,mongodb,docker,linux" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,flask,nodejs,postgresql,mongodb,docker,linux&theme=dark" />
 </p>
 
 ### Exploring (currently learning)
@@ -97,7 +97,7 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Currently+In+Progress..." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Currently+In+Progress..." alt="typing" />
 
 - **Building:** [Current project, one line]
 - **Learning:** [1 to 3 specific things, e.g., deploying FastAPI apps with Docker]
@@ -108,7 +108,7 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Chasing+The+Next+Challenge" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Chasing+The+Next+Challenge" alt="typing" />
 
 - [Hackathon name, year: what you built, result]
 - [Certification, publication, or competition]
@@ -120,7 +120,7 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Let's+Build+Something+Together" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Let's+Build+Something+Together" alt="typing" />
 
 Internships and entry-level roles in **AI/ML**, **AI + IoT** and **full-stack** development, and collaboration on open-source or hardware + AI projects.
 
@@ -132,7 +132,7 @@ Internships and entry-level roles in **AI/ML**, **AI + IoT** and **full-stack** 
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Idea+to+Deployment" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Idea+to+Deployment" alt="typing" />
 
 ```text
 Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 / IoT integration → Real-world solution
@@ -144,7 +144,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Teaching+Machines+To+Think" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Teaching+Machines+To+Think" alt="typing" />
 
 - Generative AI and Large Language Model applications
 - Retrieval-Augmented Generation (RAG)
@@ -161,12 +161,12 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Full+Stack%2C+Full+Send" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Full+Stack%2C+Full+Send" alt="typing" />
 
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css,bash&theme=dark" />
 </p>
 
 `Python` `C` `C++` `Java` `JavaScript` `TypeScript` `HTML5` `CSS3` `Bash`
@@ -174,7 +174,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind&theme=dark" />
 </p>
 
 `React` `React Native` `React Router` `React Query` `Vite` `Tailwind CSS` `Chart.js` `Streamlit`
@@ -182,7 +182,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 ### Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express&theme=dark" />
 </p>
 
 `FastAPI` `Flask` `Django` `Node.js` `Express.js` `REST APIs` `JWT Authentication`
@@ -193,12 +193,12 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Data+That+Scales" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Data+That+Scales" alt="typing" />
 
 ### Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,firebase&theme=dark" />
 </p>
 
 `PostgreSQL` `MySQL` `MongoDB` `SQLite` `Firebase` `SQLAlchemy`
@@ -206,7 +206,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 ### Cloud & Deployment
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=firebase,vercel,googlecloud,aws" />
+<img src="https://skillicons.dev/icons?i=firebase,vercel,googlecloud,aws&theme=dark" />
 </p>
 
 `Firebase` `Vercel` `Render` `Google Cloud` `AWS`
@@ -217,10 +217,10 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Where+Software+Meets+Hardware" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Where+Software+Meets+Hardware" alt="typing" />
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,cpp" />
+<img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark" />
 </p>
 
 - ESP32 and ESP32-CAM
@@ -239,10 +239,10 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Patterns+In+The+Noise" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Patterns+In+The+Noise" alt="typing" />
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 </p>
 
 `PyTorch` `TensorFlow` `Scikit-Learn` `NumPy` `Pandas` `Matplotlib` `SciPy` `OpenCV`
@@ -255,10 +255,10 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Ship+It+With+Confidence" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Ship+It+With+Confidence" alt="typing" />
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,vscode&theme=dark" />
 </p>
 
 `Git` `GitHub` `GitHub Actions` `Docker` `Kubernetes` `Linux` `VS Code` `CI/CD`
@@ -269,10 +269,10 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Function+Meets+Form" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Function+Meets+Form" alt="typing" />
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,blender" />
+<img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" />
 </p>
 
 `Figma` `Canva` `Blender` `Adobe Photoshop` `Adobe Premiere Pro`
@@ -283,7 +283,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Explore+My+Focus+Areas" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Explore+My+Focus+Areas" alt="typing" />
 
 <div align="center">
 
@@ -307,13 +307,13 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=The+Numbers+Behind+The+Code" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=The+Numbers+Behind+The+Code" alt="typing" />
 
 <div align="center">
 
-<img src="https://github-readme-stats-kappa-one-51.vercel.app/api?username=Vinzz006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats-kappa-one-51.vercel.app/api?username=Vinzz006&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 
-<img src="https://streak-stats.demolab.com/?user=Vinzz006&theme=tokyonight&hide_border=true&count_private=true&cb=2" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Vinzz006&theme=chartreuse-dark&hide_border=true&count_private=true&cb=2" height="170"/>
 
 </div>
 
@@ -321,7 +321,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <div align="center">
 
-<img src="https://github-readme-stats-kappa-one-51.vercel.app/api/top-langs/?username=Vinzz006&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img src="https://github-readme-stats-kappa-one-51.vercel.app/api/top-langs/?username=Vinzz006&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" />
 
 </div>
 
@@ -329,7 +329,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 ## 🐍 Contribution Snake
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=365+Days+Of+Commits" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=365+Days+Of+Commits" alt="typing" />
 
 <div align="center">
 
@@ -356,7 +356,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img align="right" width="110" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8957E5&vCenter=true&width=440&height=30&lines=Always+Up+For+A+Chat" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Always+Up+For+A+Chat" alt="typing" />
 
 <div align="center">
 
@@ -365,15 +365,15 @@ I'm interested in collaborating on **AI, IoT, Computer Vision, Full-Stack, and i
 <br/>
 
 <a href="https://www.linkedin.com/in/Vinesh-Shanmugam">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=000000&color=0a0a0a" />
 </a>
 
 <a href="mailto:shanmugamvinesh75@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000&color=0a0a0a" />
 </a>
 
 <a href="https://github.com/Vinzz006">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000&color=0a0a0a" />
 </a>
 
 </div>
