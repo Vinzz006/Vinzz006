@@ -307,7 +307,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <div align="center">
 
-<img src="https://github-readme-stats-kappa-one-51.vercel.app/api?username=Vinzz006&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats-kappa-one-51.vercel.app/api?username=Vinzz006&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&cb=1" height="170"/>
 
 <img src="https://streak-stats.demolab.com/?user=Vinzz006&theme=chartreuse-dark&hide_border=true&count_private=true&cb=2" height="170"/>
 
