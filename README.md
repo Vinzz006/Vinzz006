@@ -267,6 +267,11 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=The+Numbers+Behind+The+Code" />
 
 <p align="left">
+<img src="https://img.shields.io/github/followers/Vinzz006?label=Followers&style=for-the-badge&color=39FF14&labelColor=000000" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Vinzz006&label=Public%20Repos&query=public_repos&style=for-the-badge&color=00E5FF&labelColor=000000" />
+</p>
+
+<p align="left">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinzz006&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=Vinzz006&theme=chartreuse-dark&hide_border=true&count_private=true" />
 </p>
