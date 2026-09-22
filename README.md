@@ -268,7 +268,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <p align="left">
 <img src="https://img.shields.io/github/followers/Vinzz006?label=Followers&style=for-the-badge&color=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Vinzz006&label=Public%20Repos&query=public_repos&style=for-the-badge&color=00E5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVinzz006&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=00E5FF&labelColor=000000" />
 </p>
 
 <p align="left">
@@ -290,7 +290,11 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=365+Days+Of+Commits" />
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
