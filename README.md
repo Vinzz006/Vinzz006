@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1b0d,100:0a0a0a&height=180&section=header&text=Vinesh%20Shanmugam&fontSize=42&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20%7C%20Full-Stack%20%7C%20IoT%20%26%20Embedded&descAlignY=58&descSize=16&descColor=00E5FF" />
+
 <a href="https://github.com/Vinzz006">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+%7C+Full-Stack+%7C+IoT+%26+Embedded;I+build+AI+that+connects+to+real+hardware" alt="Typing SVG" />
 </a>
@@ -286,6 +288,14 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 ---
 
+## 🏆 Trophies
+
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=Vinzz006&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=365+Days+Of+Commits" />
@@ -323,3 +333,5 @@ I'm interested in collaborating on **AI, IoT, Computer Vision, Full-Stack, and i
 ### ⚡ Build. Learn. Experiment. Ship.
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Build.+Learn.+Experiment.+Ship" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1b0d,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
