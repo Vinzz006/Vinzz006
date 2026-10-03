@@ -42,6 +42,12 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Concept+to+Prototype+to+Product" />
 
+### 🛰️ SatQuery AI — Agentic Vision-Language Assistant for Remote Sensing *(in progress)*
+**Problem:** Most remote-sensing AI tools are single-task and require GIS expertise, so non-experts struggle to extract insight from satellite imagery through plain language.
+**What I'm building:** An agentic vision-language system that routes natural-language queries to specialist models for visual question answering, captioning, text-guided grounding, multitemporal change detection, and optical–SAR fusion — built on a remote-sensing-adapted VLM with an orchestration layer that selects and chains tools per query.
+**Stack:** `Python` `PyTorch` `GeoChat (LLaVA-based VLM)` `FastAPI` `React` `LoRA fine-tuning`
+🔗 Built for Smart India Hackathon / ISRO (SAC) — *repo link coming soon*
+
 ### 🍽️ Sundararajan Canteen System
 **Problem:** Manual, in-person canteen ordering is slow and hard to track for a college campus.
 **What I built:** A web-based canteen ordering system with a React + TypeScript frontend, built and deployed end-to-end.
@@ -98,7 +104,7 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Chasing+The+Next+Challenge" />
 
-- [Hackathon name, year: what you built, result]
+- **Smart India Hackathon 2026 (ISRO/SAC):** Building SatQuery AI, an agentic remote-sensing vision-language assistant — *in progress*
 - [Certification, publication, or competition]
 - [Anything else with a name and a date]
 
