@@ -1,4 +1,8 @@
 name: github-snake
+
+permissions:
+  contents: write
+
 on:
   # run automatically every 12 hours
   schedule:
