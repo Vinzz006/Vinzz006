@@ -1,343 +1,212 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1b0d,100:0a0a0a&height=180&section=header&text=Vinesh%20Shanmugam&fontSize=42&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20%7C%20Full-Stack%20%7C%20IoT%20%26%20Embedded&descAlignY=58&descSize=16&descColor=00E5FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071b12,100:06151b&height=210&section=header&text=Vinesh%20Shanmugam&fontSize=46&fontColor=39FF14&fontAlignY=36&animation=fadeIn&desc=AI%20%2F%20ML%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20IOT%20%26%20EMBEDDED&descAlignY=59&descSize=15&descColor=00E5FF" />
 
-<a href="https://github.com/Vinzz006">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+%7C+Full-Stack+%7C+IoT+%26+Embedded;I+build+AI+that+connects+to+real+hardware" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building+AI+that+connects+to+the+real+world;From+model+to+API+to+hardware;Build.+Learn.+Experiment.+Ship." alt="Animated introduction" />
 </a>
 
-<br/>
-
-**Electronics & Communication Engineering student at Meenakshi Sundararajan Engineering College · Class of 2024–2028**
-
 <p>
-  <a href="https://github.com/Vinzz006">
-    <img src="https://img.shields.io/badge/GitHub-Vinzz006-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000&color=0a0a0a" />
-  </a>
-  <a href="https://www.linkedin.com/in/Vinesh-Shanmugam">
-    <img src="https://img.shields.io/badge/LinkedIn-Vinesh%20Shanmugam-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=000000&color=0a0a0a" />
-  </a>
-  <a href="mailto:shanmugamvinesh75@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000&color=0a0a0a" />
-  </a>
+  <a href="https://github.com/Vinzz006"><img src="https://img.shields.io/badge/GitHub-Vinzz006-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/Vinesh-Shanmugam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+  <a href="mailto:shanmugamvinesh75@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Vinzz006&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" alt="Profile views" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Vinzz006&label=Profile%20Views&style=for-the-badge" />
+**Electronics & Communication Engineering student**  
+Meenakshi Sundararajan Engineering College · Class of 2024–2028
 
 </div>
 
 ---
 
-## 👋 About Me
+## `01` — About Me
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Turning+Ideas+Into+Reality" />
+I'm an ECE student who enjoys building practical systems at the intersection of **AI, software, and hardware**. I work across the stack—from experimenting with ML and vision models to building FastAPI services, React interfaces, and ESP32-based IoT prototypes.
 
-I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-vision models, and LLM-powered apps, wrapped in a FastAPI backend and a React frontend. I like taking an idea from **concept → prototype → working application**.
+- 🤖 **AI engineering:** ML, computer vision, LLM applications, and RAG
+- 🔌 **Hardware + software:** ESP32, sensors, embedded systems, and real-time monitoring
+- 🌐 **Application development:** React, TypeScript, FastAPI, and REST APIs
+- 🎯 **Open to:** AI/ML, AI + IoT, and full-stack internship opportunities
 
-🎯 **Looking for:** AI/ML internship | Embedded + AI role | Full-stack + AI role — available to start **immediately**
-
----
-
-## 🚀 Featured Projects
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Concept+to+Prototype+to+Product" />
-
-### 🛰️ SatQuery AI — Agentic Vision-Language Assistant for Remote Sensing *(in progress)*
-**Problem:** Most remote-sensing AI tools are single-task and require GIS expertise, so non-experts struggle to extract insight from satellite imagery through plain language.
-**What I'm building:** An agentic vision-language system that routes natural-language queries to specialist models for visual question answering, captioning, text-guided grounding, multitemporal change detection, and optical–SAR fusion — built on a remote-sensing-adapted VLM with an orchestration layer that selects and chains tools per query.
-**Stack:** `Python` `PyTorch` `GeoChat (LLaVA-based VLM)` `FastAPI` `React` `LoRA fine-tuning`
-🔗 Built for Smart India Hackathon / ISRO (SAC) — *repo link coming soon*
-
-### 🍽️ Sundararajan Canteen System
-**Problem:** Manual, in-person canteen ordering is slow and hard to track for a college campus.
-**What I built:** A web-based canteen ordering system with a React + TypeScript frontend, built and deployed end-to-end.
-**Stack:** `React` `TypeScript` `Vite`
-🔗 [Repo](https://github.com/Vinzz006/sundararajan-canteen-systemj) · [Live Demo](https://sundararajan-canteen-systemj.vercel.app)
-
-### 🧠 MindEase — Mental Wellness App
-**Problem:** Students often lack an easy, private first step toward checking in on their own mental wellbeing.
-**What I built:** A wellness-focused web app using the Gemini API for AI-assisted interactions, with a React + TypeScript frontend.
-**Stack:** `React` `TypeScript` `Gemini API` `Vite`
-🔗 [Repo](https://github.com/Vinzz006/mindease) · [Live Demo](https://mindease-two-opal.vercel.app)
-
-### ✅ Task Management App
-**Problem:** Needed a clean, fast way to track daily tasks without the bloat of larger project-management tools.
-**What I built:** A to-do list web app with a React + TypeScript frontend, deployed live.
-**Stack:** `React` `TypeScript` `Vite`
-🔗 [Repo](https://github.com/Vinzz006/to-do-list) · [Live Demo](https://to-do-list-eta-sage-80.vercel.app)
+> My approach: **Concept → Prototype → Integration → Working product**
 
 ---
 
-## 🧰 Skills
+## `02` — Featured Projects
 
-### Core (I use these regularly and can discuss them in depth)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ SatQuery AI</h3>
+      <p><strong>Agentic vision-language assistant for remote sensing</strong></p>
+      <p>In progress · SIH 2026 / ISRO (SAC)</p>
+      An assistant designed to route natural-language questions to specialist remote-sensing tools, including visual question answering, captioning, grounding, multitemporal change detection, and optical–SAR fusion.
+      <br/><br/>
+      <strong>Stack</strong><br/>
+      <code>Python</code> <code>PyTorch</code> <code>GeoChat</code> <code>FastAPI</code> <code>React</code> <code>LoRA</code>
+      <br/><br/>
+      <em>Repository link coming soon.</em>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Sundararajan Canteen System</h3>
+      <p><strong>Campus food-ordering web application</strong></p>
+      A web-based canteen ordering experience built with a React and TypeScript frontend and deployed for access online.
+      <br/><br/>
+      <strong>Stack</strong><br/>
+      <code>React</code> <code>TypeScript</code> <code>Vite</code>
+      <br/><br/>
+      <a href="https://github.com/Vinzz006/sundararajan-canteen-systemj">Repository</a> · <a href="https://sundararajan-canteen-systemj.vercel.app">Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 MindEase</h3>
+      <p><strong>Mental wellness web app</strong></p>
+      A wellness-focused application with AI-assisted interactions powered by the Gemini API.
+      <br/><br/>
+      <strong>Stack</strong><br/>
+      <code>React</code> <code>TypeScript</code> <code>Gemini API</code> <code>Vite</code>
+      <br/><br/>
+      <a href="https://github.com/Vinzz006/mindease">Repository</a> · <a href="https://mindease-two-opal.vercel.app">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ Task Management App</h3>
+      <p><strong>Simple daily task tracking</strong></p>
+      A lightweight to-do application built to make everyday task tracking straightforward.
+      <br/><br/>
+      <strong>Stack</strong><br/>
+      <code>React</code> <code>TypeScript</code> <code>Vite</code>
+      <br/><br/>
+      <a href="https://github.com/Vinzz006/to-do-list">Repository</a> · <a href="https://to-do-list-eta-sage-80.vercel.app">Live demo</a>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,react,cpp,arduino,firebase,git&theme=dark" />
+---
+
+## `03` — Tech Stack
+
+### AI, machine learning & data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="Python, PyTorch, TensorFlow, OpenCV" />
 </p>
 
-- **ML / AI:** Computer Vision, Deep Learning, RAG & LLM applications, embeddings & vector search
-- **Embedded / IoT:** ESP32, ESP32-CAM, Arduino, sensors & actuators, real-time monitoring
-- **Backend / Frontend:** FastAPI, REST APIs, React, Vite, Tailwind CSS
+`Scikit-learn` · `NumPy` · `Pandas` · `Matplotlib` · `Computer Vision` · `RAG` · `LLM Applications` · `Embeddings`
 
-### Familiar (used in projects, still building depth)
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,flask,nodejs,postgresql,mongodb,docker,linux&theme=dark" />
+### Frontend & backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,fastapi,flask,nodejs&theme=dark" alt="Frontend and backend tools" />
 </p>
 
-### Exploring (currently learning)
+`React` · `TypeScript` · `JavaScript` · `Vite` · `Tailwind CSS` · `FastAPI` · `Flask` · `REST APIs` · `JWT`
 
-`MLOps` · `Cloud deployment (AWS / GCP)` · `System design` · `Kubernetes`
+### Embedded systems & IoT
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,firebase&theme=dark" alt="Arduino, C++, Firebase" />
+</p>
 
----
+`ESP32` · `ESP32-CAM` · `Embedded C/C++` · `Sensors & Actuators` · `IoT Data Acquisition` · `Real-Time Monitoring`
 
-## 🔭 Right Now
+### Databases, cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,docker,linux,git,github,githubactions,vercel&theme=dark" alt="Databases, DevOps, and deployment tools" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Always+Learning%2C+Always+Building" />
+`PostgreSQL` · `MySQL` · `MongoDB` · `SQLite` · `Firebase` · `Docker` · `Linux` · `Git` · `GitHub Actions` · `Vercel` · `Render`
 
-- **Focus:** Diving deep into software + hardware solutions, with a growing focus on ML and computer vision
-
----
-
-## 🏆 Hackathons & Achievements
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Chasing+The+Next+Challenge" />
-
-- **Smart India Hackathon 2026 (ISRO/SAC):** Building SatQuery AI, an agentic remote-sensing vision-language assistant — *in progress*
-- [Certification, publication, or competition]
-- [Anything else with a name and a date]
+### Currently exploring
+`MLOps` · `Cloud deployment` · `System design` · `Kubernetes`
 
 ---
 
-## 🤝 Open To
+## `04` — What I'm Building Toward
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Let's+Build+Something+Together" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🤖 AI Systems</h3>
+        <sub>LLMs · RAG · Computer Vision</sub>
+      </td>
+      <td align="center" width="33%">
+        <h3>🔌 Intelligent IoT</h3>
+        <sub>ESP32 · Sensors · Edge systems</sub>
+      </td>
+      <td align="center" width="33%">
+        <h3>🌐 Useful Products</h3>
+        <sub>React · APIs · Deployment</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-Internships and entry-level roles in **AI/ML**, **AI + IoT** and **full-stack** development, and collaboration on open-source or hardware + AI projects.
-
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/Vinesh-Shanmugam) · [Email](mailto:shanmugamvinesh75@gmail.com)
-
----
-
-## 🛠️ How I Build
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Idea+to+Deployment" />
+A typical project workflow:
 
 ```text
-Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 / IoT integration → Real-world solution
+Problem
+  ↓
+Research & prototype
+  ↓
+AI / ML model ──→ FastAPI backend
+                       ↓
+                 React interface
+                       ↓
+              ESP32 / IoT integration
+                       ↓
+                 Test & deploy
 ```
 
 ---
 
-## 🤖 AI Engineering
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Teaching+Machines+To+Think" />
-
-- Generative AI and Large Language Model applications
-- Retrieval-Augmented Generation (RAG)
-- Embeddings and vector search
-- AI chatbots and document intelligence
-- Local LLM workflows with Ollama
-- LangChain-based AI applications
-- FastAPI-based AI inference backends
-- AI + IoT integration
-
----
-
-## 💻 Development Stack
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Full+Stack%2C+Full+Send" />
-
-### Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css,bash&theme=dark" />
-</p>
-
-### Frontend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind&theme=dark" />
-</p>
-
-`React` `React Native` `React Router` `React Query` `Vite` `Tailwind CSS` `Chart.js` `Streamlit`
-
-### Backend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express&theme=dark" />
-</p>
-
-`FastAPI` `Flask` `Django` `Node.js` `Express.js` `REST APIs` `JWT Authentication`
-
----
-
-## 🗄️ Databases & Cloud
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Data+That+Scales" />
-
-### Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,firebase&theme=dark" />
-</p>
-
-`PostgreSQL` `MySQL` `MongoDB` `SQLite` `Firebase` `SQLAlchemy`
-
-### Cloud & Deployment
-<p align="left">
-<img src="https://skillicons.dev/icons?i=firebase,vercel,googlecloud,aws&theme=dark" />
-</p>
-
-`Firebase` `Vercel` `Render` `Google Cloud` `AWS`
-
----
-
-## 🔌 IoT & Embedded Systems
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Where+Software+Meets+Hardware" />
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark" />
-</p>
-
-- ESP32 and ESP32-CAM
-- Embedded C/C++
-- Sensors and actuators
-- IoT data acquisition
-- Real-time monitoring
-- Firebase IoT integration
-- REST API integration
-- Hardware + AI integration
-- Smart sensor systems
-
----
-
-## 🧠 Machine Learning & Data
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Patterns+In+The+Noise" />
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-</p>
-
-`PyTorch` `TensorFlow` `Scikit-Learn` `NumPy` `Pandas` `Matplotlib` `SciPy` `OpenCV`
-
-**Focus areas:** Machine Learning · Deep Learning · Computer Vision · Predictive Analytics · Image Classification · Object Detection · Medical AI · Model Explainability
-
----
-
-## ⚙️ Tools & DevOps
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Ship+It+With+Confidence" />
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,vscode&theme=dark" />
-</p>
-
-`Git` `GitHub` `GitHub Actions` `Docker` `Kubernetes` `Linux` `VS Code` `CI/CD`
-
----
-
-## 🎨 Design & Creative Tools
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Function+Meets+Form" />
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" />
-</p>
-
-`Figma` `Canva` `Blender` `Adobe Photoshop` `Adobe Premiere Pro`
-
----
-
-## 🚀 Featured Areas
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Explore+My+Focus+Areas" />
+## `05` — GitHub Analytics
 
 <div align="center">
 
-| Area | Focus |
-|---|---|
-| 🤖 Artificial Intelligence | ML • DL • Generative AI • LLMs |
-| 👁️ Computer Vision | Detection • Classification • Medical AI |
-| 🧠 RAG & LLM | Embeddings • Vector Search • AI Assistants |
-| 🌐 Full Stack | React • FastAPI • REST APIs |
-| 🔌 IoT | ESP32 • Sensors • Real-Time Monitoring |
-| 🏥 Healthcare AI | Medical AI • Digital Healthcare |
-| 🌱 Smart Agriculture | AI • IoT • Predictive Systems |
-| ⛏️ Smart Safety | IoT • Computer Vision • Monitoring |
-| ⚡ Smart Energy | IoT • Energy Monitoring • Analytics |
+<a href="https://github.com/Vinzz006">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinzz006&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/Vinzz006">
+  <img height="165" src="https://streak-stats.demolab.com/?user=Vinzz006&theme=chartreuse-dark&hide_border=true" alt="GitHub contribution streak" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzz006&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Most used programming languages" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph-inky-one.vercel.app/graph?username=Vinzz006&bg_color=000000&color=00E5FF&line=39FF14&point=39FF14&area=true&hide_border=true&area_color=39FF14" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## `06` — Contribution Snake
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=The+Numbers+Behind+The+Code" />
-
-<p align="left">
-<img src="https://img.shields.io/github/followers/Vinzz006?label=Followers&style=for-the-badge&color=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVinzz006&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=00E5FF&labelColor=000000" />
-</p>
-
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinzz006&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Vinzz006&theme=chartreuse-dark&hide_border=true&count_private=true" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzz006&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-activity-graph-inky-one.vercel.app/graph?username=Vinzz006&bg_color=000000&color=00E5FF&line=39FF14&point=39FF14&area=true&hide_border=true&area_color=39FF14" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
 ---
 
-## 🏆 Trophies
+## `07` — Let's Connect
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Vinzz006&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
+I'm interested in collaborating on **AI, IoT, computer vision, full-stack development, and innovative engineering projects**.
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/Vinesh-Shanmugam"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:shanmugamvinesh75@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Send email" /></a>
+</div>
 
-## 🐍 Contribution Snake
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=365+Days+Of+Commits" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake-dark.svg" />
-</picture>
-
----
-
-## 🤝 Let's Connect
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Always+Up+For+A+Chat" />
-
-I'm interested in collaborating on **AI, IoT, Computer Vision, Full-Stack, and innovative engineering projects.**
-
-<p>
-  <a href="https://www.linkedin.com/in/Vinesh-Shanmugam">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=000000&color=0a0a0a" />
-  </a>
-  <a href="mailto:shanmugamvinesh75@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000&color=0a0a0a" />
-  </a>
-  <a href="https://github.com/Vinzz006">
-    <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000&color=0a0a0a" />
-  </a>
-</p>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Vinzz006&label=Profile%20Views&style=for-the-badge" />
+<div align="center">
 
 ### ⚡ Build. Learn. Experiment. Ship.
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00E5FF&vCenter=true&width=440&height=30&lines=Build.+Learn.+Experiment.+Ship" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071b12,100:06151b&height=120&section=footer" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1b0d,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
+</div>
