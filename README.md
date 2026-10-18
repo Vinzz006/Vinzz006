@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071b12,100:06151b&height=210&section=header&text=Vinesh%20Shanmugam&fontSize=46&fontColor=39FF14&fontAlignY=36&animation=fadeIn&desc=AI%20%2F%20ML%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20IOT%20%26%20EMBEDDED&descAlignY=59&descSize=15&descColor=00E5FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,45:071b12,100:06151b&amp;height=210&amp;section=header&amp;text=Vinesh%20Shanmugam&amp;fontSize=46&amp;fontColor=39FF14&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=AI%20%2F%20ML%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20IOT%20%26%20EMBEDDED&amp;descAlignY=59&amp;descSize=15&amp;descColor=00E5FF" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building+AI+that+connects+to+the+real+world;From+model+to+API+to+hardware;Build.+Learn.+Experiment.+Ship." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;height=45&amp;lines=Building+AI+that+connects+to+the+real+world;From+model+to+API+to+hardware;Build.+Learn.+Experiment.+Ship." alt="Animated introduction" />
 </a>
 
 <p>
-  <a href="https://github.com/Vinzz006"><img src="https://img.shields.io/badge/GitHub-Vinzz006-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/Vinesh-Shanmugam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
-  <a href="mailto:shanmugamvinesh75@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Vinzz006&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/Vinzz006"><img src="https://img.shields.io/badge/GitHub-Vinzz006-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=39FF14" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/Vinesh-Shanmugam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00E5FF" alt="LinkedIn" /></a>
+  <a href="mailto:shanmugamvinesh75@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=39FF14" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Vinzz006&amp;label=PROFILE+VIEWS&amp;color=39FF14&amp;style=for-the-badge" alt="Profile views" />
 </p>
 
 **Electronics & Communication Engineering student**  
@@ -89,28 +89,28 @@ I'm an ECE student who enjoys building practical systems at the intersection of 
 
 ### AI, machine learning & data
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="Python, PyTorch, TensorFlow, OpenCV" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&amp;theme=dark" alt="Python, PyTorch, TensorFlow, OpenCV" />
 </p>
 
 `Scikit-learn` · `NumPy` · `Pandas` · `Matplotlib` · `Computer Vision` · `RAG` · `LLM Applications` · `Embeddings`
 
 ### Frontend & backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,fastapi,flask,nodejs&theme=dark" alt="Frontend and backend tools" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,fastapi,flask,nodejs&amp;theme=dark" alt="Frontend and backend tools" />
 </p>
 
 `React` · `TypeScript` · `JavaScript` · `Vite` · `Tailwind CSS` · `FastAPI` · `Flask` · `REST APIs` · `JWT`
 
 ### Embedded systems & IoT
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,firebase&theme=dark" alt="Arduino, C++, Firebase" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,firebase&amp;theme=dark" alt="Arduino, C++, Firebase" />
 </p>
 
 `ESP32` · `ESP32-CAM` · `Embedded C/C++` · `Sensors & Actuators` · `IoT Data Acquisition` · `Real-Time Monitoring`
 
 ### Databases, cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,docker,linux,git,github,githubactions,vercel&theme=dark" alt="Databases, DevOps, and deployment tools" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,docker,linux,git,github,githubactions,vercel&amp;theme=dark" alt="Databases, DevOps, and deployment tools" />
 </p>
 
 `PostgreSQL` · `MySQL` · `MongoDB` · `SQLite` · `Firebase` · `Docker` · `Linux` · `Git` · `GitHub Actions` · `Vercel` · `Render`
@@ -164,19 +164,19 @@ AI / ML model ──→ FastAPI backend
 <div align="center">
 
 <a href="https://github.com/Vinzz006">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinzz006&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinzz006&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/Vinzz006">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Vinzz006&theme=chartreuse-dark&hide_border=true" alt="GitHub contribution streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Vinzz006&amp;theme=chartreuse-dark&amp;hide_border=true" alt="GitHub contribution streak" />
 </a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzz006&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzz006&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;langs_count=8" alt="Most used programming languages" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph-inky-one.vercel.app/graph?username=Vinzz006&bg_color=000000&color=00E5FF&line=39FF14&point=39FF14&area=true&hide_border=true&area_color=39FF14" alt="GitHub contribution activity graph" />
+<img width="95%" src="https://github-readme-activity-graph-inky-one.vercel.app/graph?username=Vinzz006&amp;bg_color=000000&amp;color=00E5FF&amp;line=39FF14&amp;point=39FF14&amp;area=true&amp;hide_border=true&amp;area_color=39FF14" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -199,14 +199,14 @@ AI / ML model ──→ FastAPI backend
 I'm interested in collaborating on **AI, IoT, computer vision, full-stack development, and innovative engineering projects**.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Vinesh-Shanmugam"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:shanmugamvinesh75@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Send email" /></a>
+  <a href="https://www.linkedin.com/in/Vinesh-Shanmugam"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00E5FF" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:shanmugamvinesh75@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=39FF14" alt="Send email" /></a>
 </div>
 
 <div align="center">
 
 ### ⚡ Build. Learn. Experiment. Ship.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071b12,100:06151b&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,45:071b12,100:06151b&amp;height=120&amp;section=footer" />
 
 </div>
