@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,45:071b12,100:06151b&amp;height=210&amp;section=header&amp;text=Vinesh%20Shanmugam&amp;fontSize=46&amp;fontColor=39FF14&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=AI%20%2F%20ML%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20IOT%20%26%20EMBEDDED&amp;descAlignY=59&amp;descSize=15&amp;descColor=00E5FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,45:071b12,100:06151b&amp;height=210&amp;section=header&amp;text=Vinesh%20Shanmugam&amp;fontSize=46&amp;fontColor=39FF14&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=AI%20%2F%20ML%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20IOT%20%E2%80%A2%20EMBEDDED&amp;descAlignY=59&amp;descSize=15&amp;descColor=00E5FF" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;height=45&amp;lines=Building+AI+that+connects+to+the+real+world;From+model+to+API+to+hardware;Build.+Learn.+Experiment.+Ship." alt="Animated introduction" />
