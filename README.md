@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:0b2a14,100:06151b&height=230&section=header&text=Vinesh%20Shanmugam&fontSize=48&fontColor=39FF14&fontAlignY=40&animation=fadeIn&desc=AI%20%2F%20ML%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20IoT%20%E2%80%A2%20Embedded&descAlignY=62&descSize=16&descColor=00E5FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:0b2a14,100:06151b&height=230&section=header&text=Vinesh%20Shanmugam&fontSize=48&fontColor=39FF14&fontAlignY=40&animation=twinkling&desc=AI%20%2F%20ML%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20IoT%20%E2%80%A2%20Embedded&descAlignY=62&descSize=16&descColor=00E5FF" />
 
 <a href="https://github.com/Vinzz006">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&repeat=true&width=850&height=45&lines=I+build+AI+that+talks+to+real+hardware;Model+%E2%86%92+API+%E2%86%92+Interface+%E2%86%92+Device;Currently+building+SatQuery+AI+for+SIH+2026+%2F+ISRO" alt="Typing intro" />
@@ -14,31 +14,25 @@
 
 **ECE student · Meenakshi Sundararajan Engineering College · 2024 – 2028**
 <br/>
-🟢 *Open to internships in AI/ML, AI + IoT, and full-stack roles*
+<img src="assets/pulse.svg" width="16" alt="" /> *Open to internships in AI/ML, AI + IoT, and full-stack roles*
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## ⚡ The Short Version
 
 I like projects where **software meets the physical world**: an ESP32 reading a sensor, a vision model making sense of an image, a FastAPI service tying it together, and a React interface a real person can use. I take ideas from **concept → prototype → deployed product**.
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%"><h3>🤖 AI Systems</h3><sub>LLMs · RAG · Computer Vision</sub></td>
-    <td align="center" width="33%"><h3>🔌 Intelligent IoT</h3><sub>ESP32 · Sensors · Real-time monitoring</sub></td>
-    <td align="center" width="33%"><h3>🌐 Shipped Products</h3><sub>React · FastAPI · Vercel</sub></td>
-  </tr>
-</table>
+  <img src="assets/pillars.svg" width="100%" alt="AI Systems: LLMs, RAG, Computer Vision | Intelligent IoT: ESP32, Sensors, Real-time monitoring | Shipped Products: React, FastAPI, Vercel" />
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Work
 
-### 🛰️ SatQuery AI &nbsp;`🔥 in progress`
+### 🛰️ SatQuery AI &nbsp;<img src="assets/badge-live.svg" height="22" alt="in progress" align="absmiddle" />
 > **Agentic vision-language assistant for satellite imagery** · Smart India Hackathon 2026 / ISRO (SAC)
 
 Remote-sensing AI is mostly single-task and needs GIS expertise. SatQuery AI lets anyone ask questions in plain language, and an orchestration layer routes each query to the right specialist tool: visual question answering, captioning, text-guided grounding, multitemporal change detection, and optical–SAR fusion.
@@ -54,27 +48,15 @@ Remote-sensing AI is mostly single-task and needs GIS expertise. SatQuery AI let
 | 🧠 **MindEase** | Private, AI-assisted mental wellness check-ins powered by Gemini | React · TypeScript · Gemini API | [Repo](https://github.com/Vinzz006/mindease) · [Live](https://mindease-two-opal.vercel.app) |
 | ✅ **Task Management App** | Fast, no-bloat daily task tracker | React · TypeScript · Vite | [Repo](https://github.com/Vinzz006/to-do-list) · [Live](https://to-do-list-eta-sage-80.vercel.app) |
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ How I Build
 
-```text
- Problem
-    │
-    ▼
- Research + prototype
-    │
-    ▼
- ML / CV / LLM model ───► FastAPI backend ───► React interface
-                                  │
-                                  ▼
-                       ESP32 / IoT integration
-                                  │
-                                  ▼
-                           Test → Deploy
-```
+<div align="center">
+  <img src="assets/pipeline.svg" width="100%" alt="Problem → Research + prototype → ML / CV / LLM model → FastAPI backend → React interface → ESP32 / IoT integration → Test → Deploy" />
+</div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🧰 Tech Stack
 
@@ -97,13 +79,13 @@ Remote-sensing AI is mostly single-task and needs GIS expertise. SatQuery AI let
 | **Backend / Frontend** | FastAPI, Flask, REST APIs, JWT auth, React, TypeScript, Tailwind CSS |
 | **Exploring next** | MLOps · Cloud deployment (AWS / GCP) · System design · Kubernetes |
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🎯 Problem Spaces I Care About
 
 `🏥 Healthcare AI` &nbsp; `🌱 Smart Agriculture` &nbsp; `⛏️ Industrial Safety` &nbsp; `⚡ Energy Monitoring` &nbsp; `🛰️ Remote Sensing`
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Stats
 
@@ -118,7 +100,7 @@ Remote-sensing AI is mostly single-task and needs GIS expertise. SatQuery AI let
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🐍 Contribution Snake
 
@@ -130,7 +112,7 @@ Remote-sensing AI is mostly single-task and needs GIS expertise. SatQuery AI let
 </picture>
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
