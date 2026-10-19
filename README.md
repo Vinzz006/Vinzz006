@@ -8,13 +8,13 @@
 
 ## The city I built this year
 
-![Contribution city](https://www.gitskins.com/api/section/heatmap?username=Vinzz006&theme=aurora)
+![Contribution city](https://www.gitskins.com/api/section/heatmap?username=Vinzz006&theme=aurora&style=city)
 
 <div align="center"><sub>Every building is a day; taller means more contributions.</sub></div>
 
 ## Population
 
-![Profile signal](https://www.gitskins.com/api/section/stats?username=Vinzz006&theme=aurora)
+![Profile signal](https://www.gitskins.com/api/section/stats?username=Vinzz006&theme=aurora&avatar=https%3A%2F%2Fgithub.com%2FVinzz006.png)
 
 ## Landmarks
 
