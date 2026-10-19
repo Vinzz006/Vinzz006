@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240"><defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f4f49"/><stop offset=".5" stop-color="#0a2f31"/><stop offset="1" stop-color="#1c3f63"/></linearGradient>
+<radialGradient id="r" cx=".12" cy=".05" r=".6"><stop offset="0" stop-color="#2dd4bf" stop-opacity=".38"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx=".92" cy=".95" r=".5"><stop offset="0" stop-color="#3b82f6" stop-opacity=".28"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="1.5" y="1.5" width="897" height="237" rx="26" fill="url(#g)" stroke="#2dd4bf" stroke-opacity=".55" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="897" height="237" rx="26" fill="url(#r)"/>
+<rect x="1.5" y="1.5" width="897" height="237" rx="26" fill="url(#b)"/><rect x="24" y="24" width="852" height="192" rx="22" fill="#07191b" fill-opacity=".55" stroke="#2dd4bf" stroke-opacity=".35"/>
+<circle cx="800" cy="70" r="26" fill="none" stroke="#2dd4bf" stroke-opacity=".25"/><circle cx="800" cy="70" r="46" fill="none" stroke="#2dd4bf" stroke-opacity=".15"/><circle cx="834" cy="52" r="4" fill="#2dd4bf" fill-opacity=".7"/>
+<text x="44" y="70" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="34" font-weight="800" fill="#d1fae5">Profile Signal</text>
+<text x="44" y="92" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="14" font-weight="700" fill="#5eead4">GitHub stats · @vinzz006</text><rect x="40" y="100" width="196" height="106" rx="20" fill="#08181a" fill-opacity=".75" stroke="#2dd4bf" stroke-opacity=".45"/>
+<text x="60" y="128" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#5eead4">Stars</text>
+<text x="60" y="170" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="40" font-weight="800" fill="#4fd1c5">23</text>
+<rect x="60" y="184" width="156" height="8" rx="4" fill="#ffffff" fill-opacity=".1"/><rect x="60" y="184" width="12.48" height="8" rx="4" fill="#4fd1c5"/><rect x="248" y="100" width="196" height="106" rx="20" fill="#08181a" fill-opacity=".75" stroke="#2dd4bf" stroke-opacity=".45"/>
+<text x="268" y="128" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#5eead4">Contributions</text>
+<text x="268" y="170" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="40" font-weight="800" fill="#9f7aea">299</text>
+<rect x="268" y="184" width="156" height="8" rx="4" fill="#ffffff" fill-opacity=".1"/><rect x="268" y="184" width="156" height="8" rx="4" fill="#9f7aea"/><rect x="456" y="100" width="196" height="106" rx="20" fill="#08181a" fill-opacity=".75" stroke="#2dd4bf" stroke-opacity=".45"/>
+<text x="476" y="128" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#5eead4">Repos</text>
+<text x="476" y="170" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="40" font-weight="800" fill="#4a90e2">35</text>
+<rect x="476" y="184" width="156" height="8" rx="4" fill="#ffffff" fill-opacity=".1"/><rect x="476" y="184" width="18.72" height="8" rx="4" fill="#4a90e2"/><rect x="664" y="100" width="196" height="106" rx="20" fill="#08181a" fill-opacity=".75" stroke="#2dd4bf" stroke-opacity=".45"/>
+<text x="684" y="128" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#5eead4">Followers</text>
+<text x="684" y="170" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="40" font-weight="800" fill="#22d3ee">7</text>
+<rect x="684" y="184" width="156" height="8" rx="4" fill="#ffffff" fill-opacity=".1"/><rect x="684" y="184" width="10.920000000000002" height="8" rx="4" fill="#22d3ee"/></svg>
