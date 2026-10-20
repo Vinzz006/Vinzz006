@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="20" viewBox="0 0 900 20"><style>
+@keyframes fadeUp{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes growX{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+@keyframes glow{0%,100%{opacity:0}50%{opacity:.4}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.fu{animation:fadeUp .9s cubic-bezier(.2,.8,.2,1) both}
+.gr{transform-box:fill-box;transform-origin:50% 100%;animation:grow 1.1s cubic-bezier(.2,.9,.2,1) both}
+.gx{transform-box:fill-box;transform-origin:0 50%;animation:growX 1.3s cubic-bezier(.2,.8,.2,1) both}
+@keyframes floorIn{0%{transform:scaleY(0);opacity:0}6%{transform:scaleY(1);opacity:1}92%{transform:scaleY(1);opacity:1}98%,100%{transform:scaleY(0);opacity:0}}
+@keyframes towerIn{0%{transform:scaleY(0)}9%{transform:scaleY(1)}66%{transform:scaleY(1)}72%,100%{transform:scaleY(0)}}
+.fl{transform-box:fill-box;transform-origin:50% 100%;animation:floorIn 16s cubic-bezier(.3,.8,.3,1) infinite both}
+.tw{transform-box:fill-box;transform-origin:50% 100%;animation:towerIn 16s cubic-bezier(.2,.9,.2,1) infinite both}
+.pl{animation:pulse 2.6s ease-in-out infinite}
+.gl{animation:glow 2.2s ease-in-out infinite}
+.bk{animation:blink 1.1s step-end infinite}
+</style><defs><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/><stop offset=".5" stop-color="#2dd4bf"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></linearGradient><filter id="bl"><feGaussianBlur stdDeviation="2"/></filter></defs><rect x="0" y="9" width="900" height="1.5" fill="url(#ln)" opacity=".5"/><circle cy="10" r="3" fill="#7df9e4" filter="url(#bl)"><animate attributeName="cx" values="-10;910" dur="6s" repeatCount="indefinite"/></circle></svg>
