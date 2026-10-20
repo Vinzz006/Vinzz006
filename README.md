@@ -1,5 +1,7 @@
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="Vinesh Shanmugam, AI/ML Developer, Full-Stack Developer, IoT and Embedded Systems" />
+  <br/>
+  <img src="assets/typing.svg" width="100%" alt="I build AI that talks to real hardware. Model, API, Interface, Device. Currently building SatQuery AI for SIH 2026 / ISRO" />
 </div>
 
 **ECE student · Meenakshi Sundararajan Engineering College · 2024 – 2028**
@@ -74,3 +76,5 @@ I like projects where **software meets the physical world**: an ESP32 reading a 
   <a href="https://www.linkedin.com/in/Vinesh-Shanmugam"><img src="assets/pill-linkedin.svg" height="72" alt="LinkedIn" /></a>
   <a href="mailto:shanmugamvinesh75@gmail.com"><img src="assets/pill-email.svg" height="72" alt="Email" /></a>
 </div>
+
+<img src="assets/footer.svg" width="100%" alt="" />
