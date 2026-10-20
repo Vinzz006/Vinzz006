@@ -36,13 +36,13 @@
 <rect x="60" y="184" width="156" height="8" rx="4" fill="#ffffff" fill-opacity=".1"/></g>
 <rect x="60" y="184" width="11.3" height="8" rx="4" fill="#4fd1c5" class="gx" style="animation-delay:0.70s"/><g class="fu" style="animation-delay:0.35s"><rect x="248" y="100" width="196" height="106" rx="20" fill="#08181a" fill-opacity=".75" stroke="#2dd4bf" stroke-opacity=".45"/>
 <text x="268" y="128" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#5eead4">Contributions</text>
-<text x="268" y="170" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="40" font-weight="800" fill="#9f7aea">330</text>
+<text x="268" y="170" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="40" font-weight="800" fill="#9f7aea">332</text>
 <rect x="268" y="184" width="156" height="8" rx="4" fill="#ffffff" fill-opacity=".1"/></g>
 <rect x="268" y="184" width="156.0" height="8" rx="4" fill="#9f7aea" class="gx" style="animation-delay:0.85s"/><g class="fu" style="animation-delay:0.50s"><rect x="456" y="100" width="196" height="106" rx="20" fill="#08181a" fill-opacity=".75" stroke="#2dd4bf" stroke-opacity=".45"/>
 <text x="476" y="128" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#5eead4">Repos</text>
 <text x="476" y="170" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="40" font-weight="800" fill="#4a90e2">39</text>
 <rect x="476" y="184" width="156" height="8" rx="4" fill="#ffffff" fill-opacity=".1"/></g>
-<rect x="476" y="184" width="18.4" height="8" rx="4" fill="#4a90e2" class="gx" style="animation-delay:1.00s"/><g class="fu" style="animation-delay:0.65s"><rect x="664" y="100" width="196" height="106" rx="20" fill="#08181a" fill-opacity=".75" stroke="#2dd4bf" stroke-opacity=".45"/>
+<rect x="476" y="184" width="18.3" height="8" rx="4" fill="#4a90e2" class="gx" style="animation-delay:1.00s"/><g class="fu" style="animation-delay:0.65s"><rect x="664" y="100" width="196" height="106" rx="20" fill="#08181a" fill-opacity=".75" stroke="#2dd4bf" stroke-opacity=".45"/>
 <text x="684" y="128" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#5eead4">Followers</text>
 <text x="684" y="170" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="40" font-weight="800" fill="#22d3ee">7</text>
 <rect x="684" y="184" width="156" height="8" rx="4" fill="#ffffff" fill-opacity=".1"/></g>
