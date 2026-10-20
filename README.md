@@ -17,6 +17,17 @@ I like projects where **software meets the physical world**: an ESP32 reading a 
 
 <img src="assets/signal.svg" width="100%" alt="Profile Signal: 23 stars, 299 contributions, 35 repos, 7 followers" />
 
+## GitStats
+
+<img src="assets/streak.svg" width="100%" alt="Total contributions, current streak and longest streak" />
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/stats.svg" width="100%" alt="GitHub stats: commits, pull requests, issues, stars, repos contributed to" /></td>
+    <td width="50%"><img src="assets/langs.svg" width="100%" alt="Top languages by code size" /></td>
+  </tr>
+</table>
+
 ## Landmarks
 
 <img src="assets/landmarks-header.svg" width="100%" alt="Projects list, 4 pinned" />
