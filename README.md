@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="Vinesh Shanmugam, AI/ML Developer, Full-Stack Developer, IoT and Embedded Systems" />
   <br/>
-  <img src="assets/typing.svg" width="100%" alt="I build AI that talks to real hardware. Model, API, Interface, Device. Currently building SatQuery AI for SIH 2026 / ISRO" />
+  <img src="assets/typing.svg" width="100%" alt="I build AI that talks to real hardware. Model, API, Interface, Device. Currently building IBVAP and MahaSetu" />
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 I build systems where **software meets the physical world**: an ESP32 reading a sensor, a vision or language model making sense of the data, a FastAPI service tying it together, and a React or mobile interface a real person can use. I take ideas from **concept → prototype → deployed product**, and most of my work is shipped as end-to-end prototypes for hackathons, research and real campus problems.
 
-<img src="assets/now.svg" width="100%" alt="Right now: building SatQuery AI for SIH 2026 and ISRO, exploring MLOps, cloud, system design and Kubernetes, open to internships in AI/ML, AI + IoT and full-stack roles" />
+<img src="assets/now.svg" width="100%" alt="Right now: building TITAN OS, exploring MLOps, cloud, system design and Kubernetes, open to internships in AI/ML, AI + IoT and full-stack roles" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
