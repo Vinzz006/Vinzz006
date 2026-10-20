@@ -28,7 +28,7 @@
 <rect x="1.5" y="1.5" width="897" height="217" rx="26" fill="url(#b)"/>
 <g clip-path="url(#cardclip)"><g><animateTransform attributeName="transform" type="translate" values="0 0;495 55;0 0" dur="16s" repeatCount="indefinite"/><circle cx="90" cy="30" r="342" fill="url(#r2)"/></g></g><rect x="24" y="24" width="852" height="172" rx="22" fill="#07191b" fill-opacity=".55" stroke="#2dd4bf" stroke-opacity=".35"/>
 <line x1="300" y1="50" x2="300" y2="170" stroke="#2dd4bf" stroke-opacity=".3"/><line x1="600" y1="50" x2="600" y2="170" stroke="#2dd4bf" stroke-opacity=".3"/>
-<g class="fu" style="animation-delay:0.20s"><text x="150" y="112" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="44" font-weight="800" fill="#9f7aea">320</text>
+<g class="fu" style="animation-delay:0.20s"><text x="150" y="112" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="44" font-weight="800" fill="#9f7aea">324</text>
 <text x="150" y="142" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="15" font-weight="700" fill="#d1fae5">Total Contributions</text>
 <text x="150" y="164" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',ui-monospace,Consolas,monospace" font-size="11" fill="#5eead4" fill-opacity=".85">last 12 months</text></g><circle cx="450" cy="88" r="52" fill="none" stroke="#ffffff" stroke-opacity=".1" stroke-width="8"/>
 <circle cx="450" cy="88" r="52" fill="none" stroke="#2dd4bf" stroke-width="8" stroke-linecap="round" stroke-dasharray="196.0 326.7" transform="rotate(-90 450 88)"><animate attributeName="stroke-dasharray" from="0 326.7" to="196.0 326.7" dur="1.6s" fill="freeze"/></circle>
