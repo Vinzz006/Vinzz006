@@ -25,21 +25,25 @@ I build systems where **software meets the physical world**: an ESP32 reading a 
 
 <table>
   <tr>
+    <td width="50%"><a href="https://github.com/Vinzz006/IBVAP"><img src="assets/proj-ibvap.svg" width="100%" alt="IBVAP: Intelligent Border Video Analytics Platform for MHA and SSB, problem statement 26187" /></a></td>
+    <td width="50%"><a href="https://github.com/Vinzz006/MAHASETU-Web"><img src="assets/proj-mahasetu.svg" width="100%" alt="MahaSetu Web: verifiable digital service passport platform, SIH 2026, Maharashtra problem statement 26129" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/Vinzz006/Mahasetu-Mobile"><img src="assets/proj-mahasetu-mobile.svg" width="100%" alt="MahaSetu Mobile: citizen app for the MahaSetu platform, built with Expo and React Native" /></a></td>
     <td width="50%"><a href="https://github.com/Vinzz006/SatQuery"><img src="assets/proj-satquery.svg" width="100%" alt="SatQuery AI: agentic assistant for satellite imagery. SIH 2026, ISRO problem statement 26167" /></a></td>
+  </tr>
+  <tr>
     <td width="50%"><a href="https://github.com/Vinzz006/FactoryLens"><img src="assets/proj-factorylens.svg" width="100%" alt="FactoryLens: machine health and predictive maintenance for DC motors" /></a></td>
-  </tr>
-  <tr>
     <td width="50%"><a href="https://github.com/Vinzz006/CropTwin"><img src="assets/proj-croptwin.svg" width="100%" alt="CropTwin: self-evolving AI digital twin for crop health" /></a></td>
-    <td width="50%"><a href="https://github.com/Vinzz006/TinyML-Human-Activity-Fall-Detection"><img src="assets/proj-tinyml.svg" width="100%" alt="TinyML Fall Detection: real-time activity and fall detection on an ESP32 wearable" /></a></td>
   </tr>
   <tr>
+    <td width="50%"><a href="https://github.com/Vinzz006/TinyML-Human-Activity-Fall-Detection"><img src="assets/proj-tinyml.svg" width="100%" alt="TinyML Fall Detection: real-time activity and fall detection on an ESP32 wearable" /></a></td>
     <td width="50%"><a href="https://github.com/Vinzz006/RailSafe-AI"><img src="assets/proj-railsafe.svg" width="100%" alt="RailSafe AI: handheld screening assistant and luggage surveillance for Indian Railways" /></a></td>
-    <td width="50%"><a href="https://github.com/Vinzz006/MAHASETU-Web"><img src="assets/proj-mahasetu.svg" width="100%" alt="MahaSetu: verifiable digital service passport platform, SIH 2026, Maharashtra problem statement 26129" /></a></td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>Companion repos: <a href="https://github.com/Vinzz006/RailSafe-Ai-Backend">RailGuard Vision backend</a> · <a href="https://github.com/Vinzz006/Mahasetu-Mobile">MahaSetu Mobile</a></sub>
+  <sub>Companion repo: <a href="https://github.com/Vinzz006/RailSafe-Ai-Backend">RailGuard Vision backend</a></sub>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -48,7 +52,6 @@ I build systems where **software meets the physical world**: an ESP32 reading a 
 
 | Project | What it does | Built with | Repo |
 |---|---|---|---|
-| 🛡️ **IBVAP** | Intelligent Border Video Analytics Platform for the CCTV intelligence gap on long frontiers: operator fatigue and passive feeds. Hackathon prototype for MHA / SSB, problem statement 26187 | JavaScript | [Code](https://github.com/Vinzz006/IBVAP) |
 | 🔁 **Code Converters** | AI code translation IDE with an agentic self-repair loop. It translates with Gemini, then runs and debugs the result in an isolated E2B sandbox until it executes. Split-screen Monaco editor with a live terminal | React · TypeScript · Python · Gemini · E2B | [Frontend](https://github.com/Vinzz006/Code-Converters) · [Backend](https://github.com/Vinzz006/Code-Converters-backend) |
 | 🏏 **CrickIQ** | Analyzes batting and bowling technique from one video or image. Pose landmarks become biomechanical metrics, which feed CrickLM, a custom-trained language model, to write a report with weaknesses, tactical vulnerabilities and corrective drills | Python · Computer Vision · LLM | [Code](https://github.com/Vinzz006/Cricket-Analytitics) |
 | 🚌 **Transit Assist India** | Low-data, bilingual (English and Tamil) PWA for Chennai MTC buses and CMRL Metro, built entirely on free and open-source tools with zero paid map APIs | React 19 · TypeScript · Vite · MapLibre GL · Workbox | [Code](https://github.com/Vinzz006/Transit-Assist) |
