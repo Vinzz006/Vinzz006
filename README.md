@@ -38,7 +38,7 @@ I build systems where **software meets the physical world**: an ESP32 reading a 
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/Vinzz006/RailSafe-AI"><img src="assets/proj-railsafe.svg" width="100%" alt="RailSafe AI: handheld screening assistant and luggage surveillance for Indian Railways" /></a></td>
-    <td width="50%"></td>
+    <td width="50%"><a href="https://github.com/Vinzz006/Transit-Assist"><img src="assets/proj-transit.svg" width="100%" alt="Transit Assist India: low-data bilingual PWA for Chennai MTC buses and CMRL Metro, built on free and open-source tools" /></a></td>
   </tr>
 </table>
 
@@ -54,7 +54,6 @@ I build systems where **software meets the physical world**: an ESP32 reading a 
 |---|---|---|---|
 | 🔁 **Code Converters** | AI code translation IDE with an agentic self-repair loop. It translates with Gemini, then runs and debugs the result in an isolated E2B sandbox until it executes. Split-screen Monaco editor with a live terminal | React · TypeScript · Python · Gemini · E2B | [Frontend](https://github.com/Vinzz006/Code-Converters) · [Backend](https://github.com/Vinzz006/Code-Converters-backend) |
 | 🏏 **CrickIQ** | Analyzes batting and bowling technique from one video or image. Pose landmarks become biomechanical metrics, which feed CrickLM, a custom-trained language model, to write a report with weaknesses, tactical vulnerabilities and corrective drills | Python · Computer Vision · LLM | [Code](https://github.com/Vinzz006/Cricket-Analytitics) |
-| 🚌 **Transit Assist India** | Low-data, bilingual (English and Tamil) PWA for Chennai MTC buses and CMRL Metro, built entirely on free and open-source tools with zero paid map APIs | React 19 · TypeScript · Vite · MapLibre GL · Workbox | [Code](https://github.com/Vinzz006/Transit-Assist) |
 | 📄 **Resume RAG Chatbot** | Upload resume PDFs in bulk and ask natural-language questions about candidates. Runs 100% locally with no API keys | Streamlit · LangChain · FAISS · Ollama | [Code](https://github.com/Vinzz006/RAG-Chatbot) |
 | 💪 **GymBruhh** | AI fitness app with a deterministic engine (BMR, TDEE, goal-adjusted targets) and Gemini-backed coaching with validated outputs | React Native · Expo · FastAPI · Gemini | [Code](https://github.com/Vinzz006/GymBruhh) |
 | 🚀 **Launch Vehicle Health Monitor** | Educational prototype of a propulsion health-monitoring dashboard with live health grading and automated safety interlocks, using a DC motor to stand in for an engine | IoT · Telemetry · TypeScript | [Code](https://github.com/Vinzz006/ISRO-Project) |
