@@ -30,15 +30,15 @@ I build systems where **software meets the physical world**: an ESP32 reading a 
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/Vinzz006/Mahasetu-Mobile"><img src="assets/proj-mahasetu-mobile.svg" width="100%" alt="MahaSetu Mobile: citizen app for the MahaSetu platform, built with Expo and React Native" /></a></td>
-    <td width="50%"><a href="https://github.com/Vinzz006/SatQuery"><img src="assets/proj-satquery.svg" width="100%" alt="SatQuery AI: agentic assistant for satellite imagery. SIH 2026, ISRO problem statement 26167" /></a></td>
-  </tr>
-  <tr>
     <td width="50%"><a href="https://github.com/Vinzz006/FactoryLens"><img src="assets/proj-factorylens.svg" width="100%" alt="FactoryLens: machine health and predictive maintenance for DC motors" /></a></td>
-    <td width="50%"><a href="https://github.com/Vinzz006/CropTwin"><img src="assets/proj-croptwin.svg" width="100%" alt="CropTwin: self-evolving AI digital twin for crop health" /></a></td>
   </tr>
   <tr>
+    <td width="50%"><a href="https://github.com/Vinzz006/CropTwin"><img src="assets/proj-croptwin.svg" width="100%" alt="CropTwin: self-evolving AI digital twin for crop health" /></a></td>
     <td width="50%"><a href="https://github.com/Vinzz006/TinyML-Human-Activity-Fall-Detection"><img src="assets/proj-tinyml.svg" width="100%" alt="TinyML Fall Detection: real-time activity and fall detection on an ESP32 wearable" /></a></td>
+  </tr>
+  <tr>
     <td width="50%"><a href="https://github.com/Vinzz006/RailSafe-AI"><img src="assets/proj-railsafe.svg" width="100%" alt="RailSafe AI: handheld screening assistant and luggage surveillance for Indian Railways" /></a></td>
+    <td width="50%"></td>
   </tr>
 </table>
 
