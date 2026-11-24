@@ -34,9 +34,9 @@
 <text x="60" y="128" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#5eead4">Stars</text>
 <text x="60" y="170" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="40" font-weight="800" fill="#4fd1c5">106</text>
 <rect x="60" y="184" width="156" height="8" rx="4" fill="#ffffff" fill-opacity=".1"/></g>
-<rect x="60" y="184" width="44.6" height="8" rx="4" fill="#4fd1c5" class="gx" style="animation-delay:0.70s"/><g class="fu" style="animation-delay:0.35s"><rect x="248" y="100" width="196" height="106" rx="20" fill="#08181a" fill-opacity=".75" stroke="#2dd4bf" stroke-opacity=".45"/>
+<rect x="60" y="184" width="44.5" height="8" rx="4" fill="#4fd1c5" class="gx" style="animation-delay:0.70s"/><g class="fu" style="animation-delay:0.35s"><rect x="248" y="100" width="196" height="106" rx="20" fill="#08181a" fill-opacity=".75" stroke="#2dd4bf" stroke-opacity=".45"/>
 <text x="268" y="128" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#5eead4">Contributions</text>
-<text x="268" y="170" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="40" font-weight="800" fill="#9f7aea">371</text>
+<text x="268" y="170" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="40" font-weight="800" fill="#9f7aea">372</text>
 <rect x="268" y="184" width="156" height="8" rx="4" fill="#ffffff" fill-opacity=".1"/></g>
 <rect x="268" y="184" width="156.0" height="8" rx="4" fill="#9f7aea" class="gx" style="animation-delay:0.85s"/><g class="fu" style="animation-delay:0.50s"><rect x="456" y="100" width="196" height="106" rx="20" fill="#08181a" fill-opacity=".75" stroke="#2dd4bf" stroke-opacity=".45"/>
 <text x="476" y="128" font-family="'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#5eead4">Repos</text>
